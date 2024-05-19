@@ -2,7 +2,7 @@
 
 <h1 style="color: blue; text-align: center;">Welcome to My Project</h1>
 
-<p style="font-family: Arial, sans-serif; font-size: 18px; color:red;">
+<p style="font-family: Arial, sans-serif; font-size: 18px; color:#000fff;">
   This is a beautifully styled paragraph in your README.
 </p>
 
