@@ -1,11 +1,22 @@
-<!-- README.md -->
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
 
-<h1 style="color: blue; text-align: center;">Welcome to My Project</h1>
-
-<p style="font-family: Arial, sans-serif; font-size: 18px; color:#000fff;">
-  This is a beautifully styled paragraph in your README.
-</p>
-
-<p>
-  <a href="https://github.com" style="background-color: yellow; color: black; padding: 5px 10px; text-decoration: none;">GitHub Link</a>
-</p>
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
