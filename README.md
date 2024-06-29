@@ -1,4 +1,4 @@
-## Hello! 👋 I'm [Your Name]
+## Hello! 👋 I'm Rajdeep Paul
 
 I'm a passionate college student with a keen interest in Artificial Intelligence, Web Development, Game Development, and Automation. My journey in tech is driven by curiosity and a desire to create impactful solutions.
 
